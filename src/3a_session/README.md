@@ -10,14 +10,6 @@
 
 ![aiaic_memory3a005.png](../../media/3a_session/aiaic_memory3a005.png)
 
-![aiaic_memory3a006.png](../../media/3a_session/aiaic_memory3a006b.png)
-
-![aiaic_memory3a007.png](../../media/3a_session/aiaic_memory3a007.png)
-
-![aiaic_memory3a008.png](../../media/3a_session/aiaic_memory3a008.png)
-
-![aiaic_memory3a005.png](../../media/3a_session/aiaic_memory3a005.png)
-
 ![aiaic_memory3a006.png](../../media/3a_session/aiaic_memory3a006.png)
 
 ![aiaic_memory3a007.png](../../media/3a_session/aiaic_memory3a007.png)
