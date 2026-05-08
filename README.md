@@ -9,6 +9,8 @@ aiaic_memory : Context Engineering # Session # Memory # Agent
 - Persist sessions in a database
 - Initialize MemoryService & integrate with agent
 - Automate memory storage & retrieval
+- Implement short-term & long-term agent's memory 
+
 
 
 ## Context Engineering : Agent's Sessions & Memory
